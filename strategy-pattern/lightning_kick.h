@@ -3,7 +3,7 @@
 #include "kick_strategy.h"
 class LightningKick : public KickStrategy {
   public:
-    void Kick() {
+    void Kick() override {
       std::cout << "I can do lightning kick\n"; 
     }
 };

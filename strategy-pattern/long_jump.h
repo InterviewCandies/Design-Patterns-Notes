@@ -3,7 +3,7 @@
 #include <iostream>
 class LongJump : public JumpStrategy {
   public:
-    void Jump() {
+    void Jump() override {
       std::cout << "I can do long jump\n";
     }
 };
