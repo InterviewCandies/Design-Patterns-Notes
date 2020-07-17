@@ -6,7 +6,7 @@
 * You should use this pattern in your application where multiple objects are dependent on the state of one object.
 * Applications: Event Listener, Email subscription, Youtube Notification.
 ## Model
-![model](https://lh3.googleusercontent.com/proxy/ZO2ReEyADNINow9QVxqX523awFKFFtpVUu0J_3IRNM4zMC35lTr2AgXyE24aBBYyOhRzszamLoE84mEspgIXn-UBk67hzkyUm3CAaHZXKr2xROkuOvZ_GS3vw_y6A0xz0gfvNXG1rg)    
+![model](https://www.researchgate.net/profile/Armando_Rene_Narvaez_Contreras/publication/314175216/figure/fig6/AS:467513608806407@1488475338457/Observer-pattern-class-diagram.png)    
 
 ## Implementation
 ![implementation](https://media.geeksforgeeks.org/wp-content/uploads/ObserverPatternSet-2.png)
