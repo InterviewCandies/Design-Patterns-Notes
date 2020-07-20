@@ -64,3 +64,16 @@ The outline of reuasble solution to a general problem encounter in a particular 
 #### Object Adapter 
 ![Object adapter](https://dotnettrickscloud.blob.core.windows.net/img/designpatterns/adapter.png)\
 (source: https://www.dotnettricks.com/learn/designpatterns/adapter-design-pattern-dotnet)
+
+## Decorator pattern 
+### Notes 
+* The Decorator pattern provide a flexible alternative to subclassing for extending functionality
+* Decorators attached additional responsibilities to an object dynamically
+* Decorator pattern involves a set of decorator classes that are used to wrap around concrete components
+* Decorator classes mirror the type of the components (Have the same type, through inheritance or interface implementation)
+* Decorators change the behavior of their components by adding new functionality before / after method class to the component.
+* Drawback: Decorators can results in many small objects in design and overuse can be complex.
+* Application: File reader
+### Model 
+![model](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/httpatomoreillycomsourceoreillyimages1547817.png)\
+(source: https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/ch09s14.html)
