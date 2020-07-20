@@ -1,6 +1,6 @@
 # Decorator pattern 
 ## Notes 
-* The Decorator pattern provide a flexible alternative to subclassing for extending functionality
+* The Decorator pattern provides a flexible alternative to subclassing for extending functionality
 * Decorators attached additional responsibilities to an object dynamically
 * Decorator pattern involves a set of decorator classes that are used to wrap around concrete components
 * Decorator classes mirror the type of the components (Have the same type, through inheritance or interface implementation)
